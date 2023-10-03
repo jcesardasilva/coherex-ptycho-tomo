@@ -16,4 +16,4 @@ scipy>=1.2.0
 traitlets>=4.3.2
 pyopencl>=2021.1.2
 ipympl>=0.7.0
-git+https://github.com/jcesardasilva/toupy.git@hercules
+toupy @ git+https://github.com/jcesardasilva/toupy.git@hercules
