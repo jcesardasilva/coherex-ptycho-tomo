@@ -31,9 +31,9 @@ Getting started
 
 Throughout this tutorial, we will run some python scripts using Jupyter 
 Notebook. You can either download the files from this Gitlab repository and copy them in 
-a folder of your choice or, if you prefer, you can clone it by typing:
+a folder of your choice or, if you prefer, you can clone them by typing:
 
-git clone  https://github.com/jcesardasilva/tutorialasterix.git
+git clone  [https://github.com/jcesardasilva/tutorialasterix.git](https://github.com/jcesardasilva/coherex-ptycho-tomo)
 
 Once the files are in your computer, you can open Jupyter Notebook by:
 - Windows: click on the Jupyter Notebook icon installed in the start menu.
@@ -44,7 +44,7 @@ Concerning the use of Jupyter Notebooks, the website:
 https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/index.html
  
 shows how to install it and to start it in the different Operational Systems (Linux/Mac OS, Windows). 
-Additionally, some Python packages are required: Numpy, IPython, Matplotlib, and scikit-image. 
+Some Python packages are also required: Numpy, IPython, Matplotlib, and scikit-image. 
 
 Dependencies
 ------------
