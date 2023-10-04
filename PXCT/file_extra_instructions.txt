@@ -1,0 +1,35 @@
+# PART 1
+# ------
+# Download of the file 'PXCTcorrprojections.npz' for the notebook 'PXCT_pipeline_part2.ipynb':
+
+from toupy.utils import downloadURLfile
+urldata = 'https://cloud.neel.cnrs.fr/index.php/s/Mafyw2wSdNMbYfm/download'
+downloadURLfile(urldata, 'PXCTcorrprojections.npz')
+
+#===============================================================================================
+
+# PART 3
+# ------
+# Download of the file 'PXCTalignedprojections.npz' for the notebook 'PXCT_pipeline_part3.ipynb':
+
+from toupy.utils import downloadURLfile
+urldata = 'https://cloud.neel.cnrs.fr/index.php/s/8Q5KJMAKLBqmPnL/download'
+downloadURLfile(urldata, 'PXCTalignedprojections.npz')
+
+#===============================================================================================
+
+# EXTRA
+# ------
+# Download of the file 'PXCTalignedprojections.npz' for the notebook 'PXCT_pipeline_extra.ipynb':
+
+from toupy.utils import downloadURLfile
+urldata = 'https://cloud.neel.cnrs.fr/index.php/s/8Q5KJMAKLBqmPnL/download'
+downloadURLfile(urldata, 'PXCTalignedprojections.npz')
+
+
+#########################
+# In case you don't want to wait for the entire tomo reconstructions, here are the reconstructed tomograms:
+
+from toupy.utils import downloadURLfile
+urldata = 'https://cloud.neel.cnrs.fr/index.php/s/5fXHQLrWDGrjNTX/download'
+downloadURLfile(urldata, 'PXCTtomogram.npz')
