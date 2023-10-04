@@ -60,5 +60,6 @@ pip3 install --user numpy, ipython, matplotlib, scikit-image, scipy
 
 My Binder Jupyter HUB
 ---------------------
-There is also a possibility to run the notebooks in MyBinder by clicking here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcesardasilva/coherex-ptycho-tomo/HEAD)
+There is also a possibility to run the notebooks in MyBinder by clicking here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcesardasilva/coherex-ptycho-tomo.git/v0.1)
+
 
